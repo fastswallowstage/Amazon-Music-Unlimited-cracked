@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-amazon-music, amazon-music-unlimited, amazon-music-hd-2026, amzn-music-pro, music-streaming, ultra-hd-audio, dolby-atmos, pro-software-2026, trial-software, windows-software-2026             
+amazon-music, amazon-music-unlimited, amazon-music-hd-2026, amzn-music-pro, music-streaming, ultra-hd-audio, dolby-atmos, pro-software-2026, trial-software, windows-software-2026              
